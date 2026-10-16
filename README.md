@@ -2,7 +2,7 @@
 
 Code, data and run records for the paper
 
-> **Design checks as zero-cost information in active-learning reliability analysis of progressive collapse with brittle regimes**
+> **Regime-informed active learning with an in-context tabular surrogate for progressive-collapse reliability analysis**
 
 The repository lets you (1) regenerate every results table and figure of Section 4 from the stored run records in
 seconds, and (2) re-run any reported campaign (RI-AL-Tab, AL-Tab, AK-MCS) on the stored finite-element (FE)
