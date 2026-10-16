@@ -1,0 +1,21 @@
+{
+ "backend": "tabfm",
+ "device": "mps",
+ "threads": 2,
+ "ens": 1,
+ "params_M": 1647.78,
+ "t_load_s": 8.0,
+ "t_fit_pred2000_s": 4.47,
+ "t_fit_pred10k_s": 31.7,
+ "peak_rss_GB": 12.6,
+ "mps_driver_GB": 8.28,
+ "rmse_mean": 0.0417,
+ "rmse_median": 0.0417,
+ "cov90": null,
+ "halfwidth": null,
+ "interval_score": null,
+ "FP": 0,
+ "FN": 1,
+ "D_fixed": 1.85,
+ "n_fail": 54
+}

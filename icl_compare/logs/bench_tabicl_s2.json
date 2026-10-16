@@ -1,0 +1,21 @@
+{
+ "backend": "tabicl",
+ "device": "cpu",
+ "threads": 2,
+ "ens": 1,
+ "params_M": 28.54,
+ "t_load_s": 1.1,
+ "t_fit_pred2000_s": 0.75,
+ "t_fit_pred10k_s": 2.5,
+ "peak_rss_GB": 2.96,
+ "mps_driver_GB": null,
+ "rmse_mean": 0.0237,
+ "rmse_median": 0.0239,
+ "cov90": 0.947,
+ "halfwidth": 0.0454,
+ "interval_score": 0.103,
+ "FP": 0,
+ "FN": 2,
+ "D_fixed": 2.9,
+ "n_fail": 69
+}

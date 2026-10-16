@@ -1,0 +1,21 @@
+{
+ "backend": "limix",
+ "device": "cpu",
+ "threads": 2,
+ "ens": 1,
+ "params_M": 406.22,
+ "t_load_s": 7.8,
+ "t_fit_pred2000_s": 44.07,
+ "t_fit_pred10k_s": 173.4,
+ "peak_rss_GB": 8.12,
+ "mps_driver_GB": null,
+ "rmse_mean": 0.0224,
+ "rmse_median": 0.0225,
+ "cov90": 0.626,
+ "halfwidth": 0.0178,
+ "interval_score": 0.1256,
+ "FP": 0,
+ "FN": 0,
+ "D_fixed": 0.0,
+ "n_fail": 69
+}

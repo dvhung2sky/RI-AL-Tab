@@ -1,0 +1,19 @@
+{
+ "tag": "pop_xiao_c1_fad0.3-0.25_thu0.11_t0.085_pf1e-02_N9915_b100",
+ "rung": "L0",
+ "seed": 3,
+ "nfe": 100,
+ "design_failures": 26,
+ "AK": {
+  "D": 52.0,
+  "FP": 24,
+  "FN": 28,
+  "sPf": -4.0,
+  "FN_brittle": 28,
+  "FN_ductile": 0,
+  "FP_brittle": 4,
+  "FP_ductile": 20,
+  "recall_off": 0.6351
+ },
+ "t_total_s": 8.2
+}

@@ -1,0 +1,21 @@
+{
+ "backend": "exaone",
+ "device": "mps",
+ "threads": 2,
+ "ens": 1,
+ "params_M": 21.11,
+ "t_load_s": 3.7,
+ "t_fit_pred2000_s": 1.79,
+ "t_fit_pred10k_s": 6.5,
+ "peak_rss_GB": 0.59,
+ "mps_driver_GB": 1.22,
+ "rmse_mean": 0.035,
+ "rmse_median": 0.0349,
+ "cov90": 0.925,
+ "halfwidth": 0.0589,
+ "interval_score": 0.1427,
+ "FP": 0,
+ "FN": 0,
+ "D_fixed": 0.0,
+ "n_fail": 49
+}

@@ -1,0 +1,19 @@
+{
+ "tag": "c1_fad0.3-0.25_t0.127_pf3e-03",
+ "rung": "L2",
+ "seed": 0,
+ "nfe": 100,
+ "design_failures": 41,
+ "AK": {
+  "D": 8.6667,
+  "FP": 0,
+  "FN": 13,
+  "sPf": -8.6667,
+  "FN_brittle": 7,
+  "FN_ductile": 6,
+  "FP_brittle": 0,
+  "FP_ductile": 0,
+  "recall_off": 0.8807
+ },
+ "t_total_s": 8.7
+}

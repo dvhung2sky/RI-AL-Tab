@@ -1,0 +1,21 @@
+{
+ "backend": "mitra",
+ "device": "cpu",
+ "threads": 2,
+ "ens": 1,
+ "params_M": 76.68,
+ "t_load_s": 6.8,
+ "t_fit_pred2000_s": 45.99,
+ "t_fit_pred10k_s": 184.5,
+ "peak_rss_GB": 1.7,
+ "mps_driver_GB": null,
+ "rmse_mean": 0.068,
+ "rmse_median": 0.0689,
+ "cov90": 0.922,
+ "halfwidth": 0.1227,
+ "interval_score": 0.2834,
+ "FP": 0,
+ "FN": 0,
+ "D_fixed": 0.0,
+ "n_fail": 49
+}

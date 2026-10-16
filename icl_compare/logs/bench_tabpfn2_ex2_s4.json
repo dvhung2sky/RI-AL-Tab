@@ -1,0 +1,21 @@
+{
+ "backend": "tabpfn2",
+ "device": "cpu",
+ "threads": 2,
+ "ens": 1,
+ "params_M": 11.08,
+ "t_load_s": 4.2,
+ "t_fit_pred2000_s": 7.5,
+ "t_fit_pred10k_s": 32.0,
+ "peak_rss_GB": 4.58,
+ "mps_driver_GB": null,
+ "rmse_mean": 0.0517,
+ "rmse_median": 0.0515,
+ "cov90": 0.914,
+ "halfwidth": 0.0862,
+ "interval_score": 0.203,
+ "FP": 2,
+ "FN": 3,
+ "D_fixed": 9.8,
+ "n_fail": 51
+}
